@@ -1,12 +1,12 @@
 
 package ec.edu.espoch.practicadoss;
 
-public class Estudiante {
+public class Estudiantes {
     
     //atributos
     public String nombre;
-    public String identificacion;
-    public Double calificacionPromedio;
+    public int identificacion;
+    public double calificacionPromedio;
     
     //metodo 
     

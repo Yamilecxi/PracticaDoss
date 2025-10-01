@@ -6,8 +6,8 @@ public class Curso {
     //artiibutos
     
     public String nombreCurso;
-    public String codigo;
-    public Estudiante[] listaEstudiantesInscritos;
+    public int codigo;
+    public Estudiantes[] listaEstudiantesInscritos;
     
     //metodos
     
